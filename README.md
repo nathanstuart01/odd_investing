@@ -11,3 +11,4 @@ Getting Started:
 9. Export .env values `export $(cat .env | xargs)`
 10. Run api: `make local`
 11. Navigate to your local api swagger docs to interact with api: `http://127.0.0.1:8000`
+12. test test git pull
